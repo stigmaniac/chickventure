@@ -11,11 +11,11 @@ Meet Pippo, a tiny chick exploring a colourful world, collecting stars and makin
 **[🐥 Play Chickventure in Your Browser](https://stigmaniac.github.io/chickventure/)**
 
 ## 📸 Gameplay
-![Pippo Gameplay](screenshots/gameplay.png)
+![Pippo Gameplay](screenshorts/gameplay.png)
 
-![Pippo Exploring](screenshots/gameplay2.png)
+![Pippo Exploring](screenshorts/gameplay2.png)
 
-![Pippo Adventure](screenshots/gameplay3.png)
+![Pippo Adventure](screenshorts/gameplay3.png)
 
 No installation needed. Just open and play!
 
